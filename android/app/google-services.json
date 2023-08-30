@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "382617883259",
+    "project_id": "multi-vendor-store-577d2",
+    "storage_bucket": "multi-vendor-store-577d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382617883259:android:9043eb2753e8702c9408de",
+        "android_client_info": {
+          "package_name": "com.faisal.multivendor_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382617883259-ej6e1tl5rsao461vdrdb16c3cfndt3p3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.faisal.multivendor_store",
+            "certificate_hash": "31c4e498b2227d93a5082d07e2c8d61a4f463cd2"
+          }
+        },
+        {
+          "client_id": "382617883259-rd5r4e3u7i776iemp1flbh0luevbjf0r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs0JGgbrFYWYmMrnJtf-iOEM1TRampiX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382617883259-rd5r4e3u7i776iemp1flbh0luevbjf0r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
